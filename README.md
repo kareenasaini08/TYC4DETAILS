@@ -1,3 +1,2 @@
 # TYC4DETAILS
-
-ROLl_NO    NAME
+ROLL NO.      NAME
